@@ -19,7 +19,7 @@ module.exports = {
       if(!isRoom){
         await db.run(`
           INSERT INTO rooms (id, pass) 
-          VALUES (${parseInt(roomId)}, ${pass})
+          VALUES (${parseInt(roomId)}, "${pass}")
         `)
       }
     }
