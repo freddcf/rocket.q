@@ -4,7 +4,7 @@
   "description": "Projeto com a proposta de gerenciar salas de perguntas anônimas de usuários anônimos para o criador da sala, onde ele poderá vê-las e escolher seus destinos. Desenvolvido na NLW ",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon .",
+    "start": "node .",
     "init-db": "node src/db/init.js"
   },
   "author": "Fred Fonseca",
