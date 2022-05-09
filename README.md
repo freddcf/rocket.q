@@ -83,7 +83,7 @@ npm start
 
 - Em seguida acesse http://localhost:3000 no seu navegador.
 
-## :metal: Como contribuir
+## 📬 Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
